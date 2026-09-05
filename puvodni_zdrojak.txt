@@ -1,0 +1,4 @@
+
+původní zdrojový kod Borland C++ 3.1 k nahlednutí v tomto archivu pro DosBox emulátor
+https://github.com/Pavek-Martin-2/BACKSAVE/blob/main/VER_5/PLUS/0826MOJE.RAR
+
